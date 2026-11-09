@@ -1,0 +1,15 @@
+{
+  "name": "rapidtextai-seo-audit",
+  "displayName": "RapidTextAI Free SEO Audit",
+  "version": "0.1.0",
+  "description": "Audit any public web page for SEO in a conversation: on-page checks with a scorecard, a fact-check of its claims, content refresh suggestions and an originality check. Free, no account or API key needed.",
+  "author": {
+    "name": "RapidTextAI",
+    "email": "alisaleem252@gmail.com",
+    "url": "https://app.rapidtextai.com"
+  },
+  "homepage": "https://app.rapidtextai.com",
+  "repository": "https://github.com/alisaleem252/rapidtextai-claude-plugins",
+  "license": "MIT",
+  "keywords": ["seo", "seo-audit", "fact-check", "content-refresh", "originality", "wordpress", "content-marketing"]
+}

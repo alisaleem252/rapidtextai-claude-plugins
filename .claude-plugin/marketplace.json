@@ -1,0 +1,16 @@
+{
+  "name": "rapidtextai",
+  "description": "RapidTextAI plugins for Claude: SEO audits, researched articles, auto-blogging and WordPress publishing.",
+  "owner": {
+    "name": "RapidTextAI",
+    "email": "alisaleem252@gmail.com",
+    "url": "https://app.rapidtextai.com"
+  },
+  "plugins": [
+    {
+      "name": "rapidtextai-seo-audit",
+      "source": "./plugins/rapidtextai-seo-audit",
+      "description": "Free SEO audit for any public page: on-page checks, fact-check, content refresh ideas and an originality check. No account needed."
+    }
+  ]
+}
